@@ -1,0 +1,13 @@
+Python 3.7
+torch==1.13.1
+numpy==1.21.5
+pandas==1.3.5
+scikit-learn==1.0.2
+scipy==1.7.3
+tqdm
+networkx
+rdkit==2023.03.1
+openbabel==2.4.1
+pymol-open-source
+egnn-pytorch
+prefetch-generator
