@@ -9,7 +9,7 @@ STELLAR_git/
 ├── README.md
 ├── requirements.txt
 ├── software_code/
-├── data/           data for training
+├── data/           data for training, download from https://huggingface.co/datasets/Jupiterli/STELLAR_training
 ├── example/          data for test
 │   ├── cdk2/
 │   └── test/
